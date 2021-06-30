@@ -5,7 +5,7 @@
 ```
 import torch
 ```
-![다운로드](https://user-images.githubusercontent.com/68007145/123546776-0348c180-d799-11eb-9d74-82a5941ce4f2.png)
+![텐서차원](https://user-images.githubusercontent.com/68007145/123546776-0348c180-d799-11eb-9d74-82a5941ce4f2.png)
 
 * ### 텐서 초기화 : *torch.tensor(data)*   
     > *data = [[1, 2], [3,4]]*    
